@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipu</h1>
-<h3 align="center">A undergrad CSE Student at Jahangirnagar University from Bangladesh</h3>
+<h3 align="center">Undergrad CSE Student at Jahangirnagar University from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahebialom&label=Profile%20views&color=00ff00&style=plastic" alt="mahebialom" /> </p>
 
