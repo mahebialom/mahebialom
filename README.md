@@ -3,7 +3,7 @@
 <h3 align="center">Undergrad CSE Student at Jahangirnagar University from Bangladesh</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mahebialom&base=0&label=Profile%20views&color=00ff00&style=plastic" alt="mahebialom" />
+  <img src="https://komarev.com/ghpvc/?username=mahebialom&base=-727&label=Profile%20views&color=00ff00&style=plastic" alt="mahebialom" />
 </p>
 
 
